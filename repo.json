@@ -1,27 +1,25 @@
 [
-{
-    "Author":  "Loskh",
-    "Name":  "AoAoEnergy",
-    "InternalName":  "AoAoEnergy",
-    "AssemblyVersion":  "1.0.3.0",
-    "TestingAssemblyVersion":  "1.0.3.0",
-    "Description":  "Replace tincture VFX with AoAoEnergy RGB effect.",
-    "Punchline":  "AoAoEnergy RGB VFX replacement.",
-    "ApplicableVersion":  "any",
-    "DalamudApiLevel":  15,
-    "TestingDalamudApiLevel":  15,
-    "IsHide":  false,
-    "IsTestingExclusive":  false,
-    "LoadRequiredState":  0,
-    "LoadSync":  false,
-    "LoadPriority":  0,
-    "CanUnloadAsync":  false,
-    "RepoUrl":  "https://github.com/Nero0421/Nero-dalamud",
-    "IconUrl":  "https://cafemaker.wakingsands.com/i/024000/024420_hr1.png",
-    "DownloadLinkInstall":  "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/AoAoEnergy/AoAoEnergy-1.0.3.0-api15.zip",
-    "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/AoAoEnergy/AoAoEnergy-1.0.3.0-api15.zip",
-    "DownloadLinkTesting":  "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/AoAoEnergy/AoAoEnergy-1.0.3.0-api15.zip",
-    "DownloadCount":  0,
-    "LastUpdate":  1780300000
-}
+  {
+    "Name": "AoAoEnergy / \u55f7\u55f7\u6709\u52b2",
+    "InternalName": "AoAoEnergy",
+    "AssemblyVersion": "1.0.3.0",
+    "Author": "Loskh",
+    "Punchline": "\u5c06\u7206\u53d1\u836f\u7279\u6548\u66ff\u6362\u4e3a\u55f7\u55f7\u6709\u52b2\u7684 RGB \u6548\u679c / Replace tincture VFX with AoAoEnergy RGB effect",
+    "Description": "\u5c06\u7206\u53d1\u836f\u7279\u6548\u66ff\u6362\u4e3a\u55f7\u55f7\u6709\u52b2\u7684 RGB \u6548\u679c\u3002\nReplace tincture VFX with AoAoEnergy RGB effect.",
+    "ApplicableVersion": "any",
+    "LoadPriority": 0,
+    "Tags": [
+      "VFX",
+      "AVFX",
+      "\u7279\u6548",
+      "\u7206\u53d1\u836f",
+      "\u55f7\u55f7\u6709\u52b2"
+    ],
+    "DalamudApiLevel": 15,
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/Nero0421/Nero-dalamud",
+    "IconUrl": "https://cafemaker.wakingsands.com/i/024000/024420_hr1.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/AoAoEnergy/AoAoEnergy-1.0.3.0-api15.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/AoAoEnergy/AoAoEnergy-1.0.3.0-api15.zip"
+  }
 ]
