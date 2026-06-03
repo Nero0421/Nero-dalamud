@@ -21,5 +21,28 @@
     "IconUrl": "https://cafemaker.wakingsands.com/i/024000/024420_hr1.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/AoAoEnergy/AoAoEnergy-1.0.3.0-api15-cn.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/AoAoEnergy/AoAoEnergy-1.0.3.0-api15-cn.zip"
+  },
+  {
+    "Name": "Casexile / \u547d\u4ee4\u5927\u5c0f\u5199\u4fee\u6b63",
+    "InternalName": "Casexile",
+    "AssemblyVersion": "1.0.0.3",
+    "Author": "Nagi'to Atreides, API15 fix by Nero0421",
+    "Punchline": "\u659c\u6760\u547d\u4ee4\u4e0d\u533a\u5206\u5927\u5c0f\u5199",
+    "Description": "\u8ba9\u659c\u6760\u547d\u4ee4\u4e0d\u533a\u5206\u5927\u5c0f\u5199\u3002\u8f93\u5165\u547d\u4ee4\u65f6\u4f1a\u5148\u68c0\u67e5\u5df2\u6ce8\u518c\u547d\u4ee4\u8868\uff1b\u5927\u5c0f\u5199\u4e0d\u4e00\u81f4\u65f6\u53ea\u4fee\u6b63\u547d\u4ee4\u5934\uff0c\u540e\u9762\u7684\u53c2\u6570\u4fdd\u6301\u539f\u6837\u3002",
+    "ApplicableVersion": "any",
+    "LoadPriority": 0,
+    "Tags": [
+      "casexile",
+      "chat",
+      "slash commands",
+      "case-insensitive",
+      "\u5927\u5c0f\u5199",
+      "\u659c\u6760\u547d\u4ee4"
+    ],
+    "DalamudApiLevel": 15,
+    "AcceptsFeedback": false,
+    "RepoUrl": "https://github.com/Nero0421/Nero-dalamud",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/Casexile/Casexile-1.0.0.3-api15-cn.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/Casexile/Casexile-1.0.0.3-api15-cn.zip"
   }
 ]
