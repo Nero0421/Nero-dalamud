@@ -44,5 +44,31 @@
     "RepoUrl": "https://github.com/Nero0421/Nero-dalamud",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/Casexile/Casexile-1.0.0.3-api15-cn.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/Casexile/Casexile-1.0.0.3-api15-cn.zip"
+  },
+  {
+    "Name": "HoardFarmX",
+    "InternalName": "HoardFarmX",
+    "AssemblyVersion": "1.5.2.13",
+    "Author": "Nero0421, Jukkales",
+    "Punchline": "深层迷宫宝藏辅助插件 / DeepDungeon hoard helper",
+    "Description": "HoardFarm API15 维护版，用于深层迷宫宝藏路线辅助。",
+    "ApplicableVersion": "any",
+    "LoadPriority": 0,
+    "Tags": [
+      "hoard",
+      "farm",
+      "help",
+      "hoarder",
+      "accursed",
+      "achievement",
+      "中文",
+      "宝藏"
+    ],
+    "DalamudApiLevel": 15,
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/Nero0421/Nero-dalamud",
+    "IconUrl": "https://github.com/Jukkales/HoardFarm/raw/main/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/HoardFarmX/HoardFarmX-1.5.2.13-api15-cn.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Nero0421/Nero-dalamud/main/plugins/HoardFarmX/HoardFarmX-1.5.2.13-api15-cn.zip"
   }
 ]
